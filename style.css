@@ -1,45 +1,64 @@
+/* Global Styles */
 body {
     font-family: 'Merriweather', serif;
     background-color: #f4f4f4;
     margin: 0;
     padding: 0;
 }
+
 .container {
     width: 80%;
     margin: 20px auto;
     background-color: white;
     padding: 30px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
 }
+
+/* Typography */
 h1 {
     font-family: 'Lora', serif;
     text-align: center;
     font-size: 36px;
     color: #333;
-    margin-bottom: 10px;
+    margin-bottom: 20px;
 }
+
 h2 {
     font-size: 24px;
     color: #333;
     margin-bottom: 15px;
 }
+
 h3 {
-    font-size: 18px;
-    color: #333;
+    font-size: 20px;
+    color: #444;
     margin-bottom: 10px;
 }
+
 p {
     font-size: 16px;
     color: #555;
     line-height: 1.6;
+    margin-bottom: 20px;
 }
+
 ul {
     list-style-type: none;
     padding-left: 0;
 }
+
 ul li {
     margin-bottom: 10px;
+    color: #666;
 }
+
+a {
+    color: #0066cc;
+    text-decoration: none;
+}
+
+/* Profile Image */
 .profile-image {
     width: 180px;
     height: 180px;
@@ -48,15 +67,20 @@ ul li {
     display: block;
     margin: 20px auto;
 }
+
+/* Contact Information */
 .contact-info {
     text-align: center;
     font-size: 16px;
     margin-bottom: 30px;
 }
+
 .contact-info a {
     color: #0066cc;
     text-decoration: none;
 }
+
+/* Section Title */
 .section-title {
     font-size: 24px;
     color: #444;
