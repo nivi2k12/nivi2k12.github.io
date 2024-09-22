@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Nivethitha Rajagopal | Resume</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            width: 80%;
+            margin: 0 auto;
+            background-color: white;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #333;
+            text-align: center;
+        }
+        h2 {
+            color: #555;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+        .section-title {
+            font-size: 20px;
+            color: #333;
+            margin-bottom: 10px;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        ul li {
+            margin-bottom: 5px;
+        }
+        a {
+            color: #0066cc;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Nivethitha Rajagopal</h1>
+        <p><strong>Senior Solution Consultant | Lead QA Engineer | Certified ScrumMaster®</strong></p>
+        <p>Chennai, Tamil Nadu, India | <a href="mailto:nivi2k12@gmail.com">nivi2k12@gmail.com</a> | <a href="https://www.linkedin.com/in/nivr">LinkedIn</a></p>
+
+        <div class="section">
+            <h2 class="section-title">Professional Summary</h2>
+            <p>
+                Accomplished Senior QA Engineer and Solution Consultant with over 8 years of hands-on experience in automation and manual testing, scripting, and software development.
+                Expertise in Agile methodologies, MDM SaaS, Informatica IDMC, and DevOps tools like Jenkins and Git. Proven track record in driving product quality, delivering end-to-end
+                project management, and mentoring teams for large-scale product implementations. Certified Scrum Master with a strong focus on continuous improvement, API automation, and cloud technologies.
+            </p>
+        </div>
+
+        <div class="section">
+            <h2 class="section-title">Experience</h2>
+
+            <h3>Informatica Business Solutions Pvt. Ltd</h3>
+            <p><strong>Senior Solution Consultant</strong> (March 2023 – Present)</p>
+            <ul>
+                <li>Led hands-on solutioning and development of the IDMC platform.</li>
+                <li>Collaborated with stakeholders to design custom solutions for SaaS MDM architecture.</li>
+                <li>Developed integration processes using Informatica Cloud Integration for seamless data flow.</li>
+                <li>Configured SaaS MDM data models, match rules, and data quality validation.</li>
+                <li>Assessed source-to-target mapping documents, providing recommendations.</li>
+            </ul>
+
+            <h3>InfoTrellis India Pvt. Ltd</h3>
+            <p><strong>Lead QA Engineer</strong> (2020 – 2022)</p>
+            <ul>
+                <li>Led automation testing for REST APIs, focusing on framework enhancements and regression testing.</li>
+                <li>Spearheaded performance testing with ETL and Big Data functionalities.</li>
+                <li>Managed bug tracking and reporting via JIRA, implementing CI/CD pipelines using Jenkins.</li>
+            </ul>
+
+            <!-- Add more sections for other experience as needed -->
+        </div>
+
+        <div class="section">
+            <h2 class="section-title">Education</h2>
+            <p><strong>Bachelor of Engineering</strong>, Computer Science (2011 – 2015)<br>Jerusalem College of Engineering, Chennai</p>
+        </div>
+
+        <div class="section">
+            <h2 class="section-title">Certifications</h2>
+            <ul>
+                <li>Certified Scrum Master – ScrumAlliance (2024)</li>
+                <li>Data Science Certification – IBM (2020)</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2 class="section-title">Skills</h2>
+            <ul>
+                <li>Programming Languages: Java, Python, Shell Scripting</li>
+                <li>Automation Tools: Selenium, JMeter, RestAssured, TestNG</li>
+                <li>Cloud Technologies: AWS</li>
+                <li>DevOps Tools: Jenkins, Git, Docker</li>
+                <li>Testing Tools: Postman, JIRA, ETL Testing</li>
+                <li>Frameworks: Agile, REST API Automation, Big Data</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2 class="section-title">Languages</h2>
+            <ul>
+                <li>Tamil (Proficient)</li>
+                <li>Telugu (Native)</li>
+                <li>Hindi (Intermediate)</li>
+                <li>English (Advanced)</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2 class="section-title">Awards</h2>
+            <ul>
+                <li>Asteri Star of the Month (2023)</li>
+                <li>Best Recruit Award (2015-2016)</li>
+            </ul>
+        </div>
+    </div>
+</body>
+</html>
